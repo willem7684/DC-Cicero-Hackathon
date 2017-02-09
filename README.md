@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Our ideas:
 
-You can use the [editor on GitHub](https://github.com/willem7684/DC-Cicero-Hackathon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Housing Market
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nowerdays it is difficult to keep up with all of the changes in the housing industry. Who has which house isn't even the worse of them all.
+Knowing who is allowed to expand there house, or build a shed in there garden. That is where it gets tricky. What we can make in a Block-Chain is the possibility to have a proof of ownership of not only your house but also is you have the "rights" to build apon your living enviroment. if you have paid the bills, had a plumber or an electrition come round to help you out. Also the proof of payment can be put into your block so that you dont have to fuss around with reseets or what not anymore. It will just be clear to everyone who and what hasa done what and paid what. what what and what.
 
-### Markdown
+##International Study Enviroment
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this project it we can make an enviroment in a blockchain that students can participate in. They can then get 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willem7684/DC-Cicero-Hackathon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Keeping up with stock
